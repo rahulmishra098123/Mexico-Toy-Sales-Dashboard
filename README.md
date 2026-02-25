@@ -97,4 +97,26 @@ The Power BI dashboard includes:
 
 ## Datasets
 - <a href="https://github.com/rahulmishra098123/Mexico-Toy-Sales-Dashboard/blob/main/SALES..csv">Sales_Dataset</a>
--
+- <a href="https://github.com/rahulmishra098123/Mexico-Toy-Sales-Dashboard/blob/main/STORE..csv">Store_Dataset</a>
+- <a href="https://github.com/rahulmishra098123/Mexico-Toy-Sales-Dashboard/blob/main/PRODUCT..csv">Product_Dataset</a>
+- <a href="https://github.com/rahulmishra098123/Mexico-Toy-Sales-Dashboard/blob/main/inventory.csv">Inventory_Dataset</a>
+
+## Dashboard Interaction
+- <a href="https://github.com/rahulmishra098123/Mexico-Toy-Sales-Dashboard/blob/main/MEXICO%20TOY%20STORE%20DASHBOARD2.pbix">Dashboard</a>
+
+
+
+## Conclusion
+ - This project demonstrates:
+
+- Data cleaning and preparation skills
+
+- Data modeling and relationship building
+
+- DAX measure creation
+
+- Business-oriented analysis
+
+- Dashboard design for decision support
+
+It reflects my ability to not only build visuals but also extract actionable insights from data.
