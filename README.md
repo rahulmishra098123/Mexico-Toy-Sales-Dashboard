@@ -4,7 +4,7 @@
 
 - The objective of this project is to analyze sales performance of a Mexico-based toy retail business using Power BI.
 
-- This analysis focuses on identifying:
+ This analysis focuses on identifying:
 
 - Overall business performance
 
